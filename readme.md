@@ -1,9 +1,12 @@
 <div align="center">
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarthi575&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarthi07-V&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" />
 
 <br><br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Python%20DSA&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2" />
 
