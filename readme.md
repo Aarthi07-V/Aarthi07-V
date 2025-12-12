@@ -121,6 +121,9 @@ Task manager using localStorage and dynamic DOM updates.
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aarthi07-V/Aarthi07-V/main/github-contributions.svg" alt="GitHub Contributions" />
+</div>
 
 
 ---
