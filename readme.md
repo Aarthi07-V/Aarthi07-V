@@ -3,11 +3,14 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem-Solving%20Enthusiast&descAlignY=60&descAlign=50&fontColor=000000&animation=twinkling&stroke=ADFF2F&strokeWidth=2" />
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;Java%2C+Python+%26+DSA+Enthusiast+🧠;Learning%2C+Building+%26+Growing+Every+Day+🚀;Crafting+Beautiful+UIs+%26+Solid+Backends+⚡" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&duration=3000&pause=1000&color=ADFF2F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;Java%2C+Python+%26+DSA+Enthusiast+🧠;Learning%2C+Building+%26+Growing+Every+Day+🚀;Crafting+Beautiful+UIs+%26+Solid+Backends+⚡" />
 </div>
 <div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Aarthi07-V&color=FFD700&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Aarthi07-V?style=for-the-badge&logo=github&color=FFD700&labelColor=000000&label=Followers)
+
 </div>
 
 ## 🧑‍💻 About Me
