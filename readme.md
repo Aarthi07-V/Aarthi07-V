@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=7CFC00&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=000000&animation=twinkling&stroke=FFD700&strokeWidth=2" alt="Header" />
 
 
 <div align="center">
