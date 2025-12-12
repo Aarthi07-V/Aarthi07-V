@@ -1,20 +1,10 @@
-<div align="center">
-<div align="center">
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem-Solving%20Enthusiast&descAlignY=60&descAlign=50&fontColor=000000&animation=twinkling&stroke=ADFF2F&strokeWidth=2" />
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aarthi575&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/aarthi575?style=for-the-badge&color=8B5CF6&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/aarthi575?style=for-the-badge&color=8B5CF6&logo=github)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;Java%2C+Python+%26+DSA+Enthusiast+🧠;Learning%2C+Building+%26+Growing+Every+Day+🚀;Crafting+Beautiful+UIs+%26+Solid+Backends+⚡" />
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
