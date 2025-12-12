@@ -138,15 +138,15 @@ Task manager using localStorage and dynamic DOM updates.
 ---
 
 ## 📫 Connect with Me  
-
-<p align="center">
+<div align="center">
+<p>
   <a href="https://www.linkedin.com/in/aarthi-vinayagam-739a07293"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/Aarthi07-V"><img src="https://img.icons8.com/glyph-neue/48/github.png"/></a>
   <a href="mailto:vinayagamaarthi6@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
   <a href="https://www.codechef.com/users/kit27csbs02"><img src="https://img.icons8.com/color/48/codechef.png"/></a>
   <a href="https://share.google.com/BJAcYQwlE1SkBuhmJ"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 </p>
-
+</div>
 ---
 
 ### ✨ *“Code with purpose, build with passion.”*  
