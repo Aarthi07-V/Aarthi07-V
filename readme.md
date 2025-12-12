@@ -21,7 +21,7 @@ I enjoy building clean, efficient, and user-friendly applications — from front
 Currently working on **Retail Sales Forecasting**, combining **Python + ML basics + full-stack development** for predictive insights.
 <br>
 ## 💻 Technical Skills ##
-<center>
+<div align="center">
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -51,54 +51,64 @@ Currently working on **Retail Sales Forecasting**, combining **Python + ML basic
     </td>
   </tr>
 </table>
-</center>
-
-  
+</div>
  
 
-## 📌 Featured Projects
+  ## 📌 Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-  </tr>
+**MealMate Website**  
+A React-based meal management app with Tailwind CSS for styling and Supabase as the backend.  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-  <tr>
-    <td><b>Retail Sales Forecasting</b></td>
-    <td>
-      Predicting future sales using Python, interactive dashboards, and backend integration.
-    </td>
-    <td>Python • pandas • Flask/Django • React</td>
-  </tr>
+**Personal Portfolio Website**  
+Responsive portfolio built using HTML, CSS, and Bootstrap showcasing skills & projects.  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-  <tr>
-    <td><b>Personal Portfolio Website</b></td>
-    <td>
-      Responsive portfolio built using HTML, CSS, and Bootstrap showcasing skills & projects.
-    </td>
-    <td>HTML • CSS • Bootstrap</td>
-  </tr>
+**Online Grocery Website**  
+A JavaScript-powered site with cart, alerts & dynamic components.  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-  <tr>
-    <td><b>Online Grocery Website</b></td>
-    <td>
-      A JavaScript-powered site with cart, alerts & dynamic components.
-    </td>
-    <td>HTML • CSS • JS</td>
-  </tr>
+**To-Do List App**  
+Task manager using localStorage and dynamic DOM updates.  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-  <tr>
-    <td><b>To-Do List App</b></td>
-    <td>
-      Task manager using localStorage and dynamic DOM updates.
-    </td>
-    <td>HTML • CSS • JS • Bootstrap</td>
-  </tr>
-</table>
 
 ---
+## 🏆 DSA & Problem Solving Achievements  
+
+<div align="center">
+
+| Platform       | Problems Solved | Max Rating |
+|----------------|----------------|------------|
+| **LeetCode**   | 15+            | 1454       |
+| **CodeChef**   | 300+           | 1213       |
+| **Hackerrank** | 10+            | —          |
+| **GeeksforGeeks** | 15+         | —          |
+### 🏆 Achievements
+
+ ✅ Solved **350+ problems** across platforms  
+ 🔥 Maintained **30-day streak** in problem solving  
+ 🏅 Participated in **85+ coding contests** on CodeChef  
+
+</div>
+
 
 ## 🏅 Certifications
 
@@ -111,23 +121,7 @@ Currently working on **Retail Sales Forecasting**, combining **Python + ML basic
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarthi575&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarthi575&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarthi575/aarthi575/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarthi575/aarthi575/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/aarthi575/aarthi575/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
