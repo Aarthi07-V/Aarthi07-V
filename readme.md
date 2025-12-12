@@ -139,15 +139,15 @@ Task manager using localStorage and dynamic DOM updates.
 
 ## 📫 Connect with Me  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aarthi-vinayagam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vaarthi575@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/aarthi575"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/aarthi-vinayagam-739a07293"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://github.com/Aarthi07-V"><img src="https://img.icons8.com/glyph-neue/48/github.png"/></a>
+  <a href="mailto:vinayagamaarthi6@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+  <a href="https://www.codechef.com/users/kit27csbs02"><img src="https://img.icons8.com/color/48/codechef.png"/></a>
+  <a href="https://share.google.com/BJAcYQwlE1SkBuhmJ"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 </p>
 
 ---
-
-<div align="center">
 
 ### ✨ *“Code with purpose, build with passion.”*  
 **⭐ Made with ❤️ by Aarthi V**
