@@ -139,7 +139,7 @@ Task manager using localStorage and dynamic DOM updates.
 
 ## 📫 Connect with Me  
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/aarthi-vinayagam-739a07293"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/Aarthi07-V"><img src="https://img.icons8.com/glyph-neue/48/github.png"/></a>
   <a href="mailto:vinayagamaarthi6@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
