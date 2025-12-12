@@ -3,16 +3,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarthi07-V&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=7CFC00&strokeWidth=2" alt="Header" />
 
-<br><br>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Aarthi%20V&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Python%20DSA&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Building+Fast+%26+Scalable+Web+Apps;Java+%26+Python+DSA+Practitioner;Always+Exploring+New+Tech" />
-
-</div>
 
 <div align="center">
 
