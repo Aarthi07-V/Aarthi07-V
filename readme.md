@@ -6,11 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;Java%2C+Python+%26+DSA+Enthusiast+🧠;Learning%2C+Building+%26+Growing+Every+Day+🚀;Crafting+Beautiful+UIs+%26+Solid+Backends+⚡" />
 </div>
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=prakashb96&color=FFD700&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/prakashb96?style=for-the-badge&logo=github&color=FFD700&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/prakashb96?style=for-the-badge&logo=github&color=FFD700&labelColor=000000)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Aarthi07-V&color=FFD700&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Aarthi07-V?style=for-the-badge&logo=github&color=FFD700&labelColor=000000&label=Followers)
 </div>
 
 ## 🧑‍💻 About Me
@@ -20,7 +17,7 @@ I’m **Aarthi V**, a passionate and performance-driven **Full Stack Developer**
 I enjoy building clean, efficient, and user-friendly applications — from frontend interfaces to backend logic & databases.
 Currently working on **Retail Sales Forecasting**, combining **Python + ML basics + full-stack development** for predictive insights.
 <br>
-## 💻 Tech Stack ##
+## 💻 Technical Skills ##
 <center>
 <table>
   <tr>
